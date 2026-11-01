@@ -65,33 +65,22 @@ Open your browser at:
 
 ## Screenshots
 
-### 1. Node.js HTTP Server
+## Output Screenshots
 
-![HTTP Server](screenshots/http-server.png)
+### 1. Node.js HTTP Server
+![HTTP Server](screenshots/http-serve.png)
 
 ### 2. Express Server
-
 ![Express Server](screenshots/express-server.png)
 
-### 3. Home Route
+### 3. About Route
+![About Route](screenshots/about-page.png)
 
-![Home](screenshots/home.png)
+### 4. Time Route
+![Time Route](screenshots/time-page.png)
 
-### 4. About Route
-
-![About](screenshots/about.png)
-
-### 5. Time Route
-
-![Time](screenshots/time.png)
-
-### 6. 404 Error Handling
-
+### 5. 404 Error Handling
 ![404 Error](screenshots/404-error.png)
-
-### 7. HTTP Status Codes
-
-![Status Codes](screenshots/status-codes.png)
 
 ## Problems Faced and Solutions
 
